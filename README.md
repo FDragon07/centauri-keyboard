@@ -2,7 +2,10 @@
 
 
 # My BOM
-|Item name|What the item is for in your project|Item source|Item price (include shipping + taxes)|Total price|
+|Item name|Item Reason|Item source|Item price|
+|---------|-----------|-----------|----------|
+
+## Total Price:
 
 # Screenshot of My Project
 ## Schematic, PCB, CAD
