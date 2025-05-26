@@ -26,7 +26,7 @@ The knobs and buttons in the top right corner are going to be programmable so I 
 
 ---
 # May 25th
-Still on the layout today, I fixed some of the issues that were found. First, there was no '/?' key or '`~' key to fix this I added another collum to the keyboard. Second was the backspace button felt too small to me so I made it bigger. Also when it comes to the backspace I will be using "function" + "backspace" to use it as a delete key. This also goes for all the F1-10, for F11 and F12 I do not know what I am going to do yet. Lastly there is still that weird extra keys next to the arrow keys that I do not know what I am going to do with (maybe make it an F11, 12 key but that just seems weird).
+Still on the layout today, I fixed some of the issues that were found. First, there was no '/?' key or '`~' key to fix this I added another column to the keyboard. Second was the backspace button felt too small to me so I made it bigger. Also when it comes to the backspace I will be using "function" + "backspace" to use it as a delete key. This also goes for all the F1-10, for F11 and F12 I do not know what I am going to do yet. Lastly there is still that weird extra keys next to the arrow keys that I do not know what I am going to do with (maybe make it an F11, 12 key but that just seems weird).
 
 Here is the image for the updated design:
 ![design is here](<Journal Images/Keyboard2.0.png>)
