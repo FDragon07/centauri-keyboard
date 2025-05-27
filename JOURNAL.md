@@ -43,7 +43,9 @@ I started today by finishing the tutorial from the other day. I then watched a f
 
 I then proceded to to make the keys to the schematic shown below:\
 ![Schematic Image so far](<Journal Images/SchematicDay1.png>)
-This did not take too long to create, the video is very helpful. One thing you might notic is missing is the special pad in the top right of the keyboard image. The reason for that is once I created the keys thats where I expertice failed and spent the next 2 hours trying to figure out how to do it and researching screens. I am still trying to figure out how to add a screen to the schematic and wire it up correctly. I think I am going to go with a 0.91" OLED Monochrome screen from Adafruit. But the wiring for it is crazy, seen [here](https://cdn-learn.adafruit.com/assets/assets/000/036/258/original/lcds___displays_schem.png?1475774124).
+This did not take too long to create, the video is very helpful. One thing you might notic is missing is the special pad in the top right of the keyboard image. The reason for that is once I created the keys thats where I expertice failed and spent the next 2 hours trying to figure out how to do it and researching screens. I am still trying to figure out how to add a screen to the schematic and wire it up correctly. I think I am going to go with a 0.91" OLED Monochrome screen from Adafruit. But the wiring for it is crazy, seen [here](https://cdn-learn.adafruit.com/assets/assets/000/036/258/original/lcds___displays_schem.png?1475774124). It is an I2C display so I have just enough GPIO ports after the knobs.
+
+How this keyboard work is, it will run through each row (whoops, column right now the diodes are backwards), and send a pulse and read what column is high and that will show which key are pressed. The reason for the diodes is to remove ghosting so you press 2+ buttons at a time. [Here is a cool website](https://pcbheaven.com/wikipages/How_Key_Matrices_Works/) I found explain it. Also going to be using a Pi Pico as the micro controller as it has a lot of GPIO ports, and I am going to be using every single one of them. 
 
 **Time Spent: 4 hours**
 
