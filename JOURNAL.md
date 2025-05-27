@@ -32,9 +32,19 @@ Here is the image for the updated design:
 ![design is here](<Journal Images/Keyboard2.0.png>)
 
 ### PCB
-This is my first time creating a PCB, so all I have done so far is reseach. I decide to pick KiCad as my software of choice for no real reason besides that it is free and was the first thing that popped up when I looked up 'how to start making a PCB.' I also started the tutorial they have in their docs for beginners. [Here is the link](https://docs.kicad.org/9.0/en/getting_started_in_kicad/getting_started_in_kicad.html) to the tutorial. I only got through the schematic:
+This is my first time creating a PCB, so all I have done so far is reseach. I decide to pick KiCad as my software of choice for no real reason besides that it is free and was the first thing that popped up when I looked up 'how to start making a PCB. I also started the tutorial they have in their docs for beginners. [Here is the link](https://docs.kicad.org/9.0/en/getting_started_in_kicad/getting_started_in_kicad.html) to the tutorial. I only got through the schematic:
 ![schematic](<Journal Images/LearningSchematic.png>)
 
 **Time Spent: 2 hours**
+
+---
+# May 26th
+I started today by finishing the tutorial from the other day. I then watched a few Youtube videos on making keyboards in KiCad. [Here](https://www.youtube.com/watch?v=8WXpGTIbxlQ&list=PLBD2IS_t_iWZDMdG_ZF57x9Ebm3kxKqxF&index=3) is the one I found most helpful.
+
+I then proceded to to make the keys to the schematic shown below:\
+![Schematic Image so far](<Journal Images/SchematicDay1.png>)
+This did not take too long to create, the video is very helpful. One thing you might notic is missing is the special pad in the top right of the keyboard image. The reason for that is once I created the keys thats where I expertice failed and spent the next 2 hours trying to figure out how to do it and researching screens. I am still trying to figure out how to add a screen to the schematic and wire it up correctly. I think I am going to go with a 0.91" OLED Monochrome screen from Adafruit. But the wiring for it is crazy, seen [here](https://cdn-learn.adafruit.com/assets/assets/000/036/258/original/lcds___displays_schem.png?1475774124).
+
+**Time Spent: 4 hours**
 
 ---
