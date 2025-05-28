@@ -43,10 +43,23 @@ I started today by finishing the tutorial from the other day. I then watched a f
 
 I then proceded to to make the keys to the schematic shown below:\
 ![Schematic Image so far](<Journal Images/SchematicDay1.png>)
-This did not take too long to create, the video is very helpful. One thing you might notic is missing is the special pad in the top right of the keyboard image. The reason for that is once I created the keys thats where I expertice failed and spent the next 2 hours trying to figure out how to do it and researching screens. I am still trying to figure out how to add a screen to the schematic and wire it up correctly. I think I am going to go with a 0.91" OLED Monochrome screen from Adafruit. But the wiring for it is crazy, seen [here](https://cdn-learn.adafruit.com/assets/assets/000/036/258/original/lcds___displays_schem.png?1475774124). It is an I2C display so I have just enough GPIO ports after the knobs.
+This did not take too long to create, the video is very helpful. One thing you might notice is missing is the special pad in the top right of the keyboard image. The reason for that is once I created the keys thats where I expertise failed and spent the next 2 hours trying to figure out how to do it and researching screens. I am still trying to figure out how to add a screen to the schematic and wire it up correctly. I think I am going to go with a 0.91" OLED Monochrome screen from Adafruit. But the wiring for it is crazy, seen [here](https://cdn-learn.adafruit.com/assets/assets/000/036/258/original/lcds___displays_schem.png?1475774124). It is an I2C display so I have just enough GPIO ports after the knobs.
 
 How this keyboard work is, it will run through each row (whoops, column right now the diodes are backwards), and send a pulse and read what column is high and that will show which key are pressed. The reason for the diodes is to remove ghosting so you press 2+ buttons at a time. [Here is a cool website](https://pcbheaven.com/wikipages/How_Key_Matrices_Works/) I found explain it. Also going to be using a Pi Pico as the micro controller as it has a lot of GPIO ports, and I am going to be using every single one of them. 
 
 **Time Spent: 4 hours**
+
+---
+# May 27th
+I did a lot today, I finished the schematic and started on the PCB. Here are the two images I have for them:
+![Schematic Image Final!! maybe](<Journal Images/SchematicFinal.png>)
+![PCB so far](<Journal Images/pcbDesignDay1.png>)
+Looks confusing because it is. I spent so long on the working on everything, they video from yesterday was very helpful. Also switched the diodes around so I now I can do it by rows instead of columns not that it matters that much. 
+
+The special pad (thats what I am calling it now) I spent a long time doing the screen figure out which one I want and the screen and it doesn't even fit! I dont know what I am going to do about that. That is a later problem, so I have time to think of ideas. 
+
+Some helpful things to know for next time is to figure out all of the hardware before doing the schematics and make sure it all fits. Instead of what I have been doing; researching as I go along. Also I don't think I mentioned this yesterday but the video also comes with schematics and footprints for KiCad which is how I got the switches for the keyboard.
+
+**Time Spent: 5 hours**
 
 ---
