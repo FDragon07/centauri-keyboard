@@ -63,3 +63,10 @@ Some helpful things to know for next time is to figure out all of the hardware b
 **Time Spent: 5 hours**
 
 ---
+# June 12th
+So some time has past, I needed to focus on finals (they went well) but I am ready to jump back into this project. When I say jump I more mean dive because I have been hard at  work today. I finished the PCB design!!! Looking back on the last image I now realised how much I did today. 
+![Finished PCB](<Journal Images/pcbDesignDay2.png>)
+Some thing I learned when making this was that I need to get better at planning. I had to reroute so many things because I kept changing hardware. And you can tell because some of the traces make no sense and look ugly. I might keeping switching up some minor things but that is it. There was really nothing hard about today, it just took a very, very, very long time to do.
+All I have to do now is build the case around it. This should be the easier part for me because you can just export the PCB and build it around that (there is a 3d export you can see an image of it in the [README](README.md)). I also start on the BOM.
+
+**Time Spent: 8 hours**
