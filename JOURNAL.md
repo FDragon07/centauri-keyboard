@@ -70,3 +70,16 @@ Some thing I learned when making this was that I need to get better at planning.
 All I have to do now is build the case around it. This should be the easier part for me because you can just export the PCB and build it around that (there is a 3d export you can see an image of it in the [README](README.md)). I also start on the BOM.
 
 **Time Spent: 8 hours**
+
+---
+# July 6th
+Wow it has been awhile since I have worked on this project. What I have done today is built the case for the keyboard and did more research on the money.
+First the case, I have no idea if I built it write, I am not very good with CAD so when I actually start building the keyboard I might need to change some stuff but I will update the github page. This is what I have as my "final" case build. I would add the full file but github likes small files and it is not, so I only uploaded the case and the plate (which is all you really need) 
+![Keyboard Photo](<Journal Images/Centauri-2025-07-06 233414.png>)
+Now with the money I found that it is going to be more than the $150 but I will just be using my own money.
+Since I have not touched on this yet I am going to be [KMK](https://github.com/KMKfw/kmk_firmware).
+
+**Time Spent: 4 hours**
+
+---
+# Total Time On Project: 25.5 Hours
