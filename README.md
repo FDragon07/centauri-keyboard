@@ -6,7 +6,7 @@ The reason I made this project is beacuse I have never loved the keyboard I have
 
 | Designation         | Price   | Shipping | Tariffs | Supplier / Reference                                                                                      |
 |---------------------|---------|----------|---------|------------------------------------------------------------------------------------------------------------|
-| RK1191124001        | $13.82  | $7.99    | $2.76   | [Mouser](https://www.mouser.com/ProductDetail/Alps-Alpine/RK1191124001?qs=YMSFtX0bdJDxC%2FSZguQ0Ow%3D%3D) |
+| 482020514001 (Encoder)| $4.00  | $7.99    | $0.00   | [Mouser](https://www.mouser.com/ProductDetail/Wurth-Elektronik/482020514001?qs=2WXlatMagcGAwM91AS9d8A%3D%3D) |
 | Keyswitch           | $54.25  | $11.18   | $0.00   | [LowProKB](https://lowprokb.ca/products/sunset-tactile-choc-switches?variant=41955920248996) |
 | Display (~)         | $4.73   | $8.12    | $0.00   | [BuyDisplay](https://www.buydisplay.com/1-3-inch-tft-ips-lcd-display-module-240x240-spi-for-arduino-raspberry-pi) |
 | 100 (misc)          | $0.00   | $0.00    | $0.00   | me |
@@ -15,7 +15,7 @@ The reason I made this project is beacuse I have never loved the keyboard I have
 | PCB                 | $14.30  | $46.12   | $7.87   | JLCPCB |
 
 #### Total Price:
-##### $184.54
+##### $171.96
 
 # Screenshot of My Project
 ### Schematic, PCB, CAD
