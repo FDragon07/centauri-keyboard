@@ -19,6 +19,6 @@ The reason I made this project is beacuse I have never loved the keyboard I have
 
 # Screenshot of My Project
 ### Schematic, PCB, CAD
-![Final Render](<Journal Images/Centauri-2025-07-06 233414.png>)
+![Final Render](<Journal Images/Centauri.png>)
 ![PCB](<Journal Images/pcbDesignDay2.png>)
 ![Schematic](<Journal Images/SchematicFinal.png>)
