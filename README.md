@@ -20,5 +20,5 @@ The reason I made this project is beacuse I have never loved the keyboard I have
 # Screenshot of My Project
 ### Schematic, PCB, CAD
 ![Final Render](<Journal Images/Centauri.png>)
-![PCB](<Journal Images/pcbDesignDay2.png>)
-![Schematic](<Journal Images/SchematicFinal.png>)
+![PCB](<Journal Images/PCBEncoder.png>)
+![Schematic](<Journal Images/SchematicEncoder.png>)
